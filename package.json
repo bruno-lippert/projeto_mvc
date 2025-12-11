@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  }
+}
